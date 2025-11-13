@@ -33,10 +33,7 @@ On macOS, use:
 
 ## 📸 Screenshots
 
-Include screenshots of:
-- Format selector dropdown
-- Folder picker dialog
-- Export confirmation message
+Use the images folder
 
 
 
@@ -49,5 +46,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Pull requests welcome! If you’d like to add DXF support, batch export, or slicer integration, feel free to fork and extend.
 
 ## 📣 Credits
+
 
 Created by **Ric** to restore real-world usability for makers using Fusion 360.
