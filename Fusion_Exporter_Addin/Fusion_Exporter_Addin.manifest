@@ -1,0 +1,12 @@
+{
+  "autodeskProduct": "Fusion",
+  "type": "addin",
+  "author": "Ric",
+  "description": "Export active design to STL, STEP, IGES, or 3MF using a dropdown UI",
+  "version": "1.0.0",
+  "runOnStartup": true,
+  "supportedOS": "windows|mac",
+  "editEnabled": true,
+  "iconFilename": "AddInIcon.svg"
+  "entry": "Fusion_Exporter_Addin/Fusion_Exporter_Addin.py"
+}
